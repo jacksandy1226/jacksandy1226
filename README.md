@@ -19,6 +19,4 @@ Here's a bit about me:
 - DevOps: Docker, Kubernetes, Jenkins
 - Cloud: AWS, Azure, Google Cloud
 
-## 📈 GitHub Stats
-![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacksandy&show_icons=true&theme=radical)
 
