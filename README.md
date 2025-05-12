@@ -11,16 +11,13 @@ Here's a bit about me:
 - ⚡ Fun fact: I love hiking and exploring new places.
 
 ## 🔧 Technologies & Tools
+- Frontend: React, Next.js, React Native
+- Backend: Node.js, Express
 - Programming Languages: Python, JavaScript, Java, C#, C++
 - Web Development: HTML, CSS, React, Node.js
 - Databases: MySQL, PostgreSQL, MongoDB
 - DevOps: Docker, Kubernetes, Jenkins
 - Cloud: AWS, Azure, Google Cloud
-
-## 🛠 Tech Stack
-- Frontend: React, Next.js, React Native
-- Backend: Node.js, Express
-- DevOps: Docker, GitHub Actions
 
 ## 📈 GitHub Stats
 ![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=radical)
