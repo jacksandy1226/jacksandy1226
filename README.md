@@ -1,7 +1,8 @@
-## Hi there 👋
+## Hi there, I am Joshua👋
 
 <!--
 **jacksandy1226/jacksandy1226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full-Stack Developer with over 10 years of experience specializing in front-end development using React, TypeScript, and mobile frameworks like React Native.
 
 Here are some ideas to get you started:
 
