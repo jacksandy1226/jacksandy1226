@@ -20,5 +20,5 @@ Here's a bit about me:
 - Cloud: AWS, Azure, Google Cloud
 
 ## 📈 GitHub Stats
-![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=radical)
+![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacksandy258&show_icons=true&theme=radical)
 
