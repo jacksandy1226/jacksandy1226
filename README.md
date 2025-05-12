@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a full-stack developer specializing in React, Node.js, and mobile development. I'm passionate about software development and love working on innovative projects. 
 Here's a bit about me:
 
-🚀 About Me
+## 🚀 About Me
 💻 I'm a software developer with a focus on full-stack development.
 🌱 Currently learning more about cloud computing and containerization.
 👯 I'm looking to collaborate on open-source projects and innovative software solutions.
