@@ -12,8 +12,8 @@ Here's a bit about me:
 
 ## 🔧 Technologies & Tools
 - Frontend: React, Next.js, React Native
-- Backend: Node.js, Express
-- Programming Languages: Python, JavaScript, Java, C#, C++
+- Backend: Symfony, Laravel, Flusk, Node.js, Express
+- Programming Languages: PHP, Python, JavaScript, Java, C#, C++
 - Web Development: HTML, CSS, React, Node.js
 - Databases: MySQL, PostgreSQL, MongoDB
 - DevOps: Docker, Kubernetes, Jenkins
