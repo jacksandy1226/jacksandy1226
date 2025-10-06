@@ -1,5 +1,5 @@
 
-# Hi there, I'm Jack Sandy 👋
+# Hi there, I'm Viktor Majewski 👋
 Welcome to my GitHub profile! I'm a full-stack developer specializing in React, Node.js, and mobile development. I'm passionate about software development and love working on innovative projects. 
 Here's a bit about me:
 
